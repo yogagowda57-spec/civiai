@@ -6,6 +6,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
+TRY HERE: https://civiai.ai.studio/ 
 ## 📌 Overview
 
 **CiviAI** is an AI-powered citizen assistance platform that simplifies access to government services, schemes, and grievance support.
