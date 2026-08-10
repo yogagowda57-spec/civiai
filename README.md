@@ -1,5 +1,5 @@
 # civiai (an hackathon project)
-successfully we lost it because we built the UI/UX design as per user perceptive(understandable) not in developer perceptive.
+successfully we lost it because we built the UI/UX design as per user perceptive not in developer perceptive.
 
 But still #ALIVE
 
