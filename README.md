@@ -10,6 +10,9 @@ But still #ALIVE
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 TRY HERE: https://civiai.ai.studio/ 
+
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/0b60ee04-fc00-4d25-b8be-a61cba7c6c0b" />
+
 ## 📌 Overview
 
 **CiviAI** is an AI-powered citizen assistance platform that simplifies access to government services, schemes, and grievance support.
